@@ -1,4 +1,4 @@
-# Improving-Deep-Neural-Networks-Hyperparameter-tuning-Regularization-and-Optimization
+# 吴恩达深度学习系列课程笔记：实践篇
 
 #### 简介
 
@@ -11,9 +11,13 @@
 
 #### 课程链接：
 
-Coursera: https://www.coursera.org/learn/deep-neural-network/home/info （视频+测验，适合希望完整学习并通过练习巩固的同学）
+Coursera: https://www.coursera.org/learn/deep-neural-network/home/info 
 
-Youtube: https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w （仅视频，适合快速刷内容的同学）
+（视频+测验，适合希望完整学习并通过练习巩固的同学）
+
+Youtube: https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w 
+
+（仅视频，适合快速刷内容的同学）
 
 
 
