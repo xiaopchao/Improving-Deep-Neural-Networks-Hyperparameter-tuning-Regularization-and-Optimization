@@ -67,15 +67,29 @@ beta1,beta2,epslon一般的选择默认值是多少？
 为什么需要不断降低学习率
 如何降低学习率？
 
+7 Local minimal /saddle point
+什么
+7 Local minimal /saddle point分地方和
+
+
+
 #### Part4: 如何系统的调节参数
-1. 神经网络的三类参数
+
+1. 神经网络的三类参数以及优先调试顺序
+
 2. 选择参数点的技巧：随机、领域选择、缩放scale, 方式（babysit or parallel)
+
 3. batch norm的技巧
 batch norm 是怎么运行的?
 Covariate shift是什么?
 batch norm会加快运行速度的两个方面原因。
 为什么说batch norm 还有正则化的效果
 在测试的时候需要注意什么？
+
+4. softmax layer
+它的工作原理是什么？
+loss function 是什么？
+
 
 
 
